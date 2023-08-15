@@ -1,7 +1,6 @@
 ### These are the names of the Contributors to this github repository
 
-* **Oyebamiji Mustapha** [Mustapha's github](https://github.com/Musoye)
-* **Chibuzo Akana** [Chibuzo's github](https://github.com/buzo22)
+* **Killian Nthakyo** [Killian's github](https://github.com/killynthakyo)
 
 # To Contribute on This Project
 1. Fork the Repository.
