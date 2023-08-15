@@ -1,7 +1,3 @@
-/*
- * File: main.c
- */
-
 #include "shell.h"
 
 void sig_handler(int sig);
@@ -135,4 +131,4 @@ int main(int argc, char *argv[])
 	free_env();
 	free_alias_list(aliases);
 	return (*exe_ret);
-} 
+}

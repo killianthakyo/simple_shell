@@ -1,7 +1,3 @@
-/*
- * File: err_msgs2.c
- */
-
 #include "shell.h"
 
 char *error_126(char **args);

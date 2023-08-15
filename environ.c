@@ -1,7 +1,3 @@
-/*
- * File: environ.c
- */
-
 #include "shell.h"
 
 char **_copyenv(void);

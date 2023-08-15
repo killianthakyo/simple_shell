@@ -1,10 +1,5 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
-
-/*
- * File: shell.h
- */
-
 #include <fcntl.h>
 #include <signal.h>
 #include <sys/types.h>
